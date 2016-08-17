@@ -7,7 +7,7 @@ var http = require('http');
 
 var logger = Logger.createLogger(testHelper.apikey, testHelper.options);
 var testLength = testHelper.testLength;
-var testStr = 'ESOTERIC ';
+var testStr = 'ESOTERIC 2';
 var ordered = [];
 var sentLines = [];
 var sentLevels = [];
